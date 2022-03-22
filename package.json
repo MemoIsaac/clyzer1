@@ -1,0 +1,28 @@
+{
+  "name": "clyzerv3",
+  "version": "3.0.0",
+  "description": "zamanlzm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "clyzer",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-fivem-api": "^1.0.6",
+    "discord.js": "^13.6.0",
+    "inflames.db": "^2.5.3",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "nrc.db": "^2.1.0",
+    "parse-ms": "^3.0.0",
+    "rhino-ms": "^0.4.0",
+    "snekfetch": "^4.0.4",
+    "something-random-on-discord": "^3.4.4"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
