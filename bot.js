@@ -316,4 +316,4 @@ client.on("guildMemberRemove", async member => {
 
 
 
-client.login(ayarlar.token);
+client.login(process.env.token);
